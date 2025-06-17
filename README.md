@@ -12,7 +12,7 @@ I am currently learning webdevelopment at REA College Eindhoven, but my interest
 
 I love music and although I don't pick up my bass as much as I would like to these days, I still enjoy listening to just about anything.
 <p align="center">
-  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=1151529138)
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=1151529138" alt="Spotify Recently Played" />
 </p>
 
 <hr>
