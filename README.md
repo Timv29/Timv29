@@ -8,7 +8,7 @@ I am currently learning webdevelopment at REA College Eindhoven, but my interest
 <hr>
 <h2>Personal</h2>
 
-I love music and although I pick up my bass as much as I would like to these days, I still enjoy listening to just about anything.
+I love music and although I don't pick up my bass as much as I would like to these days, I still enjoy listening to just about anything.
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=1151529138)
 
 <hr>
